@@ -188,3 +188,10 @@ Basically you have two options:
 
 - Downloading PCB Gerbers and have them produced by a PCB company such as PCBWay.
 - Buying directly the Lamp from my store, helping me to support and continue to develop the project with new features and updates.
+
+# General Q.A.
+1. How can i pair the lamp with the phone?
+   - Go to the settings of your phone and pair from there the lamp device, once done open the app and start the scanning process.
+2. How can i update the firmware?
+   - Open the app and go to "info" (the green icon on the main menu), press "UPDATE FIRMWARE". The device will be setted-up in AP mode with SSID "LAMP_updater" and type the password "aquariumlife". Once connected open a tab on browser and type the following address [192.168.4.1/update](http://192.168.4.1/update) , now "Select file" and choose the .bin you downloaded, the process will start automatically.
+
