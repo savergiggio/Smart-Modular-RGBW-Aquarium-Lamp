@@ -52,6 +52,14 @@ This is the first Aquarium Open-Source Project!
     <img width="30%" src="/images/IMG20240515114320.jpg">
 </p>
 
+## The Importance Of Modularity
+The design of this lamp is based on the concept of modularity, a design principle in which a complex system is broken down into smaller, well-defined parts called ‘modules’.
+
+Why design a modular RGBW lamp?
+
+The answer is simple, this allows you to configure the colours of the lamp to your liking, as you wish. For example, if I wanted to bring out certain colours in the aquarium, I can change only the LEDs without necessarily having to change the whole lamp. This means that the lamp can also be used for a marine aquarium by simply changing the colour of the LEDs or for plant growth by increasing the number of UV LEDs.
+Another important aspect is that modularity lowers the maintenance costs of the lamp, as it allows the component to be replaced very easily without having to buy the lamp again.
+
 # The Hardware
 <p align="center">
       <a href="https://www.pcbway.com">
