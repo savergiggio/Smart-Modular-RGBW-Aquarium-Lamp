@@ -47,7 +47,7 @@ This is the first Aquarium Open-Source Project!
 
 # The Hardware
 <p align="center">
-      <a href="pcbway.com">
+      <a href="https://www.pcbway.com">
     <img width="50%" src="/images/FJKDQBULVZ9DD6S.webp">
       </a>
 </p>
