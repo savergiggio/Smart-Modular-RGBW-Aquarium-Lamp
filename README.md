@@ -29,12 +29,19 @@ The idea of a RGBW lamp for aquariums stems from the idea of having an open-sour
 - LED-Boards x 4
 - Interface Board (between Main Board and LED-Boards) x 1
 
-## MATERIALS
+## OTHER REQUIREMENTS:
 
 - Power Supplier 24V/3A
 - 3D-Printed Case
 - M3 Inserts x 8
 - Aluminium Round Bar 10mm x 1
+
+## EQUIPMENT USED:
+- MiniWare MHP30
+- Miniware T80 IronSolder
+- PLA 1.75mm Wood
+- Bambulab A1 Mini
+
 
 ## My Vision
 I hope this lamp it's a starting point to an open source and community developed project! I will updates this projects with new features both hardware and Software side! If anyone is interested to cooperate with me on this project is welcome!
