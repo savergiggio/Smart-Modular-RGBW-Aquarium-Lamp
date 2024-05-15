@@ -46,7 +46,9 @@ This is the first Aquarium Open-Source Project!
 </p>
 
 # The Hardware
-
+<p align="center">
+    <img width="50%" src="/images/FJKDQBULVZ9DD6S.webp">
+</p>
 I wanted to make PCBs as small as possible, modular and high quality. That is why I relied on the quality, reliability and efficiency of PCBWay, a leading PCB fabrication company. I was amazed by the PCBWay customer service, they answered all my questions by mail, and very quickly. The price is very competitive and the production and delivery times are very fast, impeccable service.
 
 #### The lamp is composed by 4 main PCB Boards:
